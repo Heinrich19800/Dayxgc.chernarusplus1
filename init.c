@@ -888,7 +888,7 @@ override void TickScheduler(float timeslice)
 				break;
 			}		
             // ---------------------------------------------------------------------------------------------------------
-			case "m4": {
+			case "m4a1": {
 				PlayerBase m4a1_target;
 				if(count == 2) {
 					m4a1_target = GetPlayer(tokens[1]);
