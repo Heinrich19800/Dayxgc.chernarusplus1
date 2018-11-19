@@ -7,10 +7,10 @@ Chat Admin Command
  - NOTE: Edit L - 51 *Optional spawn admin vybor ! your Steam ID
 
 
-Installation
+Installation:
 =================================
 
-1. Replace init.c
+1. Place the init.c folder inside your DayZserver directory.
 
 2. Ingame: #login yourpasswordAdmin
 
