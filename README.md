@@ -14,7 +14,7 @@ Installation
 
 2. Ingame: #login yourpasswordAdmin
 
-3. Ingame: !heal !v3s !m4a1 …
+3. Ingame: !heal !v3s !m4a1 !stamina…
 
 
 Bugs
