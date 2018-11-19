@@ -10,7 +10,7 @@ Chat Admin Command
 Installation
 =================================
 
-1. Replace all init.c
+1. Replace init.c
 
 2. Ingame: #login yourpasswordAdmin
 
