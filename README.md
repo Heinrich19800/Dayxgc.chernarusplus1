@@ -21,4 +21,4 @@
 Bugs
 -----------
 
-	* Please report any bugs [here] (https://github.com/Malotruu/DayZMalotru.chernarusplus/issues).
+ - Please report any bugs [here](https://github.com/Malotruu/DayZMalotru.chernarusplus/issues).
