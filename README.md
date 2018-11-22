@@ -26,5 +26,16 @@ Bugs
  Updated
 -----------
 
-	* 19/11/2018: Remove  !weapon
-	* 19/11/2018: Command !stamina FIX
+* 22/11/2018: Command   Update               New update 0.63.149525 Remove !sedan - !v3s - v3sc *Broken
+* 22/11/2018: Command  Progress  !remove     Add Function [player]
+* 22/11/2018: Command    Fix     !punish
+* 22/11/2018: Command    Fix     !strip
+* 21/11/2018: Command  Progress  !zombie
+* 21/11/2018: Command    Bug     !teleport   Get out of the vehicle first
+* 21/11/2018: Command  Progress  !cam
+* 21/11/2018: Command    Add     !punish     Stripped player by an admin and Teleport prison island.
+* 21/11/2018: Command    Add     !list       List of connected players.
+* 20/11/2018: Command  Progress  !freeze
+* 19/11/2018: Command  Progress  !cam
+* 19/11/2018: Command   Remove   !weapon     
+* 19/11/2018: Command    Fix     !stamina
