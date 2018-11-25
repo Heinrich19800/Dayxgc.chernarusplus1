@@ -3,18 +3,22 @@
 Chat Admin Command
 =================================
 
- - NOTE: Commands [Wiki](https://github.com/Malotruu/DayZMalotru.chernarusplus/wiki)  
- - NOTE: Edit L - 51 *Optional spawn admin vybor ! your Steam ID
+
+    NOTE: Attention test phase! I am not a developer it's just fun for me
+    NOTE: Development code demands here - includes 1248 lines of code tidy
+    NOTE: Edit L - 25 *Optional spawn admin vybor! your Steam ID
+    NOTE: Commands Wiki
+
 
 
 Installation:
 =================================
 
-1. Place the init.c folder inside your DayZserver directory.
+1. Place the init.c \DayZServer\mpmissions\dayzOffline.chernarusplus
 
 2. Ingame: #login yourpasswordAdmin
 
-3. Ingame: !heal !v3s !m4a1 !stamina…
+3.Ingame: !heal !offroad !camera…
 
 
 Bugs
