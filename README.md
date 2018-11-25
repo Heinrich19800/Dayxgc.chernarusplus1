@@ -21,36 +21,26 @@ Bugs
 -----------
 
  - Please report any bugs [here](https://github.com/Malotruu/DayZMalotru.chernarusplus/issues).
+ * Command  Teleport   Get out of the vehicle first.
  
  
  Updated
 -----------
+* 25/11/2018: Command  Updated   !dean      Spawn (Dean Hall) at 10 meters.
+* 25/11/2018: Command  Updated   !sniper    Give a complete sniper equipment.
+* 24/11/2018: Command  Updated   !builder   Give a complete builder equipment.
+* 24/11/2018: Command  Updated   !offroad   Vehicles offroad.
 * 24/11/2018: Command    Fix     !jail      Stripped player by an admin and Teleport prison island.
 * 24/11/2018: Command    Add     !mp5       Give a complete MP5.
-* 24/11/2018: Command  Progress  !builder
 * 24/11/2018: Command   Remove   !zombie
-* 24/11/2018: Command  Progress  !camera
+* 24/11/2018: Command  Updated   !camera
 * 24/11/2018: Command    Add     !dean      Spawn (Dean Hall) at 10 meters.
 * 24/11/2018: Command    Add     !canis     Spawn (15 Canis lupus) at 50 meters.	
 * 24/11/2018: Command    Fix     !horde     Spawn (50 Random Zombies) at 50 meters.
 * 24/11/2018: Command    Add     !animals   Spawn (25 Random Animals) at 50 meters.
 * 23/11/2018: Command    Add     !akm       Give a complete AKM.
-* 23/11/2018: Command  Progress  !m4        Give a complete M4A1.
+* 23/11/2018: Command  Updated   !m4        Give a complete M4A1.
 * 23/11/2018: Command    Add     !give      Object generated in the inventory.
-* 23/11/2018: Command  Progress  !stat
-* 23/11/2018: Command  Progress  !cam
 * 23/11/2018: Command    Add     !builder      
 * 22/11/2018: Command    Fix     !sniper
-* 22/11/2018: Command   Update               New update 0.63.149525 Remove !sedan - !v3s - !v3sc *Broken
-* 22/11/2018: Command  Progress  !remove     Add Function [player]
-* 22/11/2018: Command    Fix     !punish
-* 22/11/2018: Command    Fix     !strip
-* 21/11/2018: Command  Progress  !zombie
-* 21/11/2018: Command    Bug     !teleport   Get out of the vehicle first
-* 21/11/2018: Command  Progress  !cam
-* 21/11/2018: Command    Add     !punish     Stripped player by an admin and Teleport prison island.
-* 21/11/2018: Command    Add     !list       List of connected players.
-* 20/11/2018: Command  Progress  !freeze
-* 19/11/2018: Command  Progress  !cam
-* 19/11/2018: Command   Remove   !weapon     
-* 19/11/2018: Command    Fix     !stamina
+* 22/11/2018: Command   Update               New update 0.63.149525
