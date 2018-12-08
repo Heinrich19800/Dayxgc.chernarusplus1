@@ -1,6 +1,6 @@
 ![Logo](https://cdn.discordapp.com/attachments/499241118060511252/516023616974880769/dayz-sa-server-walli.png)
 
-Chat Admin Command
+Chat Admin Command - Dayz Standalone 
 =================================
 
  - NOTE: Warning test phase! I am not a developer it's just fun for me
